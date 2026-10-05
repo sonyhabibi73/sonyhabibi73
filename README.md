@@ -45,7 +45,7 @@
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonyhabibi73&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonyhabibi73&show_icons=true&theme=dracula&hide_border=false" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyhabibi73&layout=compact&theme=dracula&hide_border=false&langs_count=5" alt="Top languages" />
 </div>
 
