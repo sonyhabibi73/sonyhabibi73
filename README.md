@@ -50,10 +50,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sonyhabibi73&theme=dracula&hide_border=false&border_radius=5" alt="GitHub streak" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonyhabibi73/sonyhabibi73/pacman-output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonyhabibi73/sonyhabibi73/pacman-output/pacman-contribution-graph.svg" />
