@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Hi, I'm Habibi!</h1>
+<h1 align="center">Hi, I'm Habibi!</h1>
 
 <p align="center">
   <b>Kalo kodenya jalan, jangan ditanya gimana cara kerjanya. 😭🙏</b>
